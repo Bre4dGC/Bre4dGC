@@ -4,7 +4,6 @@
 
 ![snake gif](https://github.com/Bre4dGC/Bre4dGC/blob/main/github-contribution-grid-snake.gif)
 ### :man_technologist: Обо мне:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+novice+developer+from+the+city+of+Moscow+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">.+My+journey+into+IT+began+in+December+2023.+I+plan+to+do=fullstack+and+desktop+development+in+C#.</h3>)](https://git.io/typing-svg)
 
 ### 🤝 Социальные сети:
 
