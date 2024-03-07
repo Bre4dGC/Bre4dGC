@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Gleb</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<p align="center">
- <img width="600" src="assets/assets/github-snake.svg" alt="snake"/>
-</p>
-
 ### :man_technologist: Обо мне:
 I am a novice developer from the city of Moscow<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">. My journey into IT began in December 2023.  I plan to do full stack and desktop development in C#.
+
+<p align="center">
+ <img width="1000" src="assets/assets/github-snake.svg" alt="snake"/>
+</p>
 
 ### 🤝 Социальные сети:
 
