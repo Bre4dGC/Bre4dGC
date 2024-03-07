@@ -41,10 +41,10 @@ I am a novice developer from the city of Moscow<img src="https://media.giphy.com
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Bre4dGC&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="https://streak-stats.demolab.com?user=Bre4dGC&theme=dark" alt="webDev's Github stats" />
     </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bre4dGC&layout=compact&theme=vision-friendly-dark" />
+<td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bre4dGC&layout=compact&theme=dark" />
     </td>
   </tr>
 </table>
