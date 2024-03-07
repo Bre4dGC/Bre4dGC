@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Gleb</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-
-![snake gif](https://github.com/Bre4dGC/Bre4dGC/blob/main/github-contribution-grid-snake.gif)
 ### :man_technologist: Обо мне:
 I am a novice developer from the city of Moscow<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">. My journey into IT began in December 2023.  I plan to do full stack and desktop development in C#.
 
@@ -22,8 +20,8 @@ I am a novice developer from the city of Moscow<img src="https://media.giphy.com
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="50" height="50"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="50" height="50"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="50" height="50"/>&nbsp
-  <img src="" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
 </div>
+
 ### 🛠 Инструменты:
 
 <div>
