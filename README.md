@@ -17,6 +17,9 @@ I am a novice developer from the city of Moscow<img src="https://media.giphy.com
 </a>
     <a href="https://vk.com/realwhitebread" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="50" height="50" alt="VK Badge"/>
+      </a>
+    <a href="https://discordapp.com/users/1186780558949351467" target="_blank">
+      <img src="https://www.svgrepo.com/show/331368/discord-v2.svg" width="50" height="50" alt="VK Badge"/>
 
   ### 💻 Технологии:
 
