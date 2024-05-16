@@ -24,9 +24,10 @@ I am a novice developer from the city of Istanbul<img src="https://media.giphy.c
   ### 💻 Технологии:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="50" height="50"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="50" height="50"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="50" height="50"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="blazor" alt="blazor" width="50" height="50"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="50" height="50"/>&nbsp;
 </div>
 
 ### 🛠 Инструменты:
@@ -34,9 +35,7 @@ I am a novice developer from the city of Istanbul<img src="https://media.giphy.c
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="visualstudio" alt="visualstudio" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original.svg" title="stackoverflow" alt="stackoverflow" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="chrome" alt="chrome" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" title="rider" alt="rider" width="50" height="50"/>&nbsp;
 </div>
 
 ### ⚙️ GitHub статистика:
