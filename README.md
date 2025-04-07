@@ -1,5 +1,7 @@
 ## ⚙️ Statistics:
 
+[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=Bre4dGC&theme=forest_winter&footer=&show_icons=true&title=Brx4D&description=Stoic-Coder&include_all_commits=true&show_icons=true)](https://github.com/maximjsx/fancy-readme-stats)
+
 <table>
   <tr>
     <td>
