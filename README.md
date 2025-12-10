@@ -1,4 +1,11 @@
-[![Fancy Profile Card](https://fancy-readme-stats.vercel.app/api?username=Bre4dGC&theme=dark&footer=&show_icons=true&title=Brx4D&description=Absurd-Coder&include_all_commits=true&show_icons=true)](https://github.com/maximjsx/fancy-readme-stats)
+<div align="center">
+
+ <h1>Brx4D</h1>
+ <p>Absurd coder</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=24292e&height=80&section=footer&fontSize=20&fontColor=ffffff" />
+
+</div>
 
 <table>
   <tr>
