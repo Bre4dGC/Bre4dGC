@@ -2,7 +2,11 @@
  
  <div align="center">
   <h1>Brx4D</h1>
+  <p>Some ambitious and absurd dude who just doesn't know what he wants to do</p>
  </div>
+ 
+ <h2 style="color:#6A5ACD; margin-bottom: 16px;">Languages</h2>
+ <img src="https://skillicons.dev/icons?i=c,cs,go,rust,fortran,python" />
 
  <div>
   <h2>Most significant projects</h2>
@@ -12,7 +16,7 @@
   <p><a href="https://github.com/Bre4dGC/sterfmt">SterFMT</a>: powerful string formatting system library in C [no motivation]</p>
   <p><a href="https://github.com/Bre4dGC/dirty">Dirty</a>: A lightweight TUI file manager built with C [no ui]</p>
   <p><a href="https://github.com/Bre4dGC/translations">Translations</a>: My Russian translation of short books and articles</p>
-  <p><a href="https://github.com/Bre4dGC/libread">Libread</a>: Standard C library after a lobotomy [bored]</p>
+  <p><a href="https://github.com/Bre4dGC/libread">Libread</a>: Standard C library after a lobotomy</p>
   <h2>Fun projects</h2>
   <p><a href="https://github.com/Bre4dGC/tui-games">TUI-Games</a>: A collection of simple terminal games in standard C</p>
   <p><a href="https://github.com/Bre4dGC/cinema">Cinema</a>: Absolute Cinema C Interpreter</p>
