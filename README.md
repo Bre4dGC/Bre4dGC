@@ -1,19 +1,41 @@
-<div align="center">
+<div>
+ 
+ <div align="center">
+  <h1>Brx4D</h1>
+ </div>
 
- <h1>Brx4D</h1>
- <p>Absurd coder</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=24292e&height=80&section=footer&fontSize=20&fontColor=ffffff" />
+ <div>
+  <h2>Most significant projects</h2>
+  <p><a href="https://github.com/Bre4dGC/bread-crumbs">Bread Crumbs</a>: Modern Programming Language [in development]</p>
+  <p><a href="https://github.com/Bre4dGC/bread-chat">BreadGPT</a>: A convenient intermediary between user and LLM</p>
+  <h2>Interesting projects</h2>
+  <p><a href="https://github.com/Bre4dGC/sterfmt">SterFMT</a>: powerful string formatting system library in C [no motivation]</p>
+  <p><a href="https://github.com/Bre4dGC/dirty">Dirty</a>: A lightweight TUI file manager built with C [no ui]</p>
+  <p><a href="https://github.com/Bre4dGC/translations">Translations</a>: My Russian translation of short books and articles</p>
+  <p><a href="https://github.com/Bre4dGC/libread">Libread</a>: Standard C library after a lobotomy [bored]</p>
+  <h2>Fun projects</h2>
+  <p><a href="https://github.com/Bre4dGC/tui-games">TUI-Games</a>: A collection of simple terminal games in standard C</p>
+  <p><a href="https://github.com/Bre4dGC/cinema">Cinema</a>: Absolute Cinema C Interpreter</p>
+  <p><a href="https://github.com/Bre4dGC/arithmedes">Arithmedes</a>: A simple arithmetic interpreter written in C</p>
+  <p><a href="https://github.com/Bre4dGC/gotodo">Gotodo</a>: Simple CLI task manager in Go</p>
+ </div>
 
 </div>
 
-<table>
-  <tr>
-    <td>
-     <img height="188px" align="Left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bre4dGC&theme=github_dark"/>
-    </td>
-    <td>
-      <img height="188px" align="right" alt="webDev's Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bre4dGC&theme=github_dark&exclude={exclude}" />
-    </td>
-  </tr>
-</table>
+<h2></h2>
+
+<div>
+ <div align="center">
+  <h1>Statistics</h1>
+ </div>
+ <table>
+   <tr>
+     <td>
+      <img height="188px" align="Left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bre4dGC&theme=github_dark"/>
+     </td>
+     <td>
+       <img height="188px" align="right" alt="webDev's Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bre4dGC&theme=github_dark&exclude={exclude}" />
+     </td>
+   </tr>
+ </table>
+</div>
