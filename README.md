@@ -10,11 +10,11 @@
 
  <div>
   <h2>Most significant projects</h2>
-  <p><a href="https://github.com/Bre4dGC/bread-crumbs">Bread Crumbs</a>: Modern Programming Language [in development]</p>
+  <p><a href="https://github.com/Bre4dGC/bread-crumbs">Bread Crumbs</a>: Modern Programming Language</p>
   <p><a href="https://github.com/Bre4dGC/bread-chat">BreadGPT</a>: A convenient intermediary between user and LLM</p>
   <h2>Interesting projects</h2>
-  <p><a href="https://github.com/Bre4dGC/sterfmt">SterFMT</a>: powerful string formatting system library in C [no motivation]</p>
-  <p><a href="https://github.com/Bre4dGC/dirty">Dirty</a>: A lightweight TUI file manager built with C [no ui]</p>
+  <p><a href="https://github.com/Bre4dGC/sterfmt">SterFMT</a>: powerful string formatting system library in C</p>
+  <p><a href="https://github.com/Bre4dGC/dirty">Dirty</a>: A lightweight TUI file manager built with C</p>
   <p><a href="https://github.com/Bre4dGC/translations">Translations</a>: My Russian translation of short books and articles</p>
   <p><a href="https://github.com/Bre4dGC/libread">Libread</a>: Standard C library after a lobotomy</p>
   <h2>Fun projects</h2>
