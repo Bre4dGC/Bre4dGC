@@ -6,7 +6,8 @@
  </div>
  
 ## Technical Stack
-**Focus:** Language Design, Compiler Construction, and Systems Programming, Desktop Development, Opensource hostage
+Language Design, Compiler Construction, Systems Programming, Desktop Development and Opensource
+
 
 <img src="https://skillicons.dev/icons?i=c,cs,go,rust,fortran,linux" />
 
