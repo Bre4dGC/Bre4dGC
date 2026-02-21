@@ -5,24 +5,24 @@
   <p>Some ambitious and absurd dude who just doesn't know what he wants to do</p>
  </div>
  
- <h2 style="color:#6A5ACD; margin-bottom: 16px;">Languages</h2>
- <img src="https://skillicons.dev/icons?i=c,cs,go,rust,fortran,python" />
+## Technical Stack
+**Focus:** Language Design, Compiler Construction, and Systems Programming, Desktop Development, Opensource hostage
 
- <div>
-  <h2>Most significant projects</h2>
-  <p><a href="https://github.com/Bre4dGC/bread-crumbs">Bread Crumbs</a>: Modern Programming Language</p>
-  <p><a href="https://github.com/Bre4dGC/bread-chat">BreadGPT</a>: A convenient intermediary between user and LLM</p>
-  <h2>Interesting projects</h2>
-  <p><a href="https://github.com/Bre4dGC/sterfmt">SterFMT</a>: powerful string formatting system library in C</p>
-  <p><a href="https://github.com/Bre4dGC/dirty">Dirty</a>: A lightweight TUI file manager built with C</p>
-  <p><a href="https://github.com/Bre4dGC/translations">Translations</a>: My Russian translation of short books and articles</p>
-  <p><a href="https://github.com/Bre4dGC/libread">Libread</a>: Standard C library after a lobotomy</p>
-  <h2>Fun projects</h2>
-  <p><a href="https://github.com/Bre4dGC/tui-games">TUI-Games</a>: A collection of simple terminal games in standard C</p>
-  <p><a href="https://github.com/Bre4dGC/cinema">Cinema</a>: Absolute Cinema C Interpreter</p>
-  <p><a href="https://github.com/Bre4dGC/arithmedes">Arithmedes</a>: A simple arithmetic interpreter written in C</p>
-  <p><a href="https://github.com/Bre4dGC/gotodo">Gotodo</a>: Simple CLI task manager in Go</p>
- </div>
+<img src="https://skillicons.dev/icons?i=c,cs,go,rust,fortran,linux" />
+
+## Most significant projects
+* **[Bread Crumbs](https://github.com/Bre4dGC/bread-crumbs)** - Modern Programming Language</p>
+* **[BreadGPT](https://github.com/Bre4dGC/bread-chat)** - A convenient intermediary between user and LLM</p>
+## Interesting stuff
+* **[SterFMT](https://github.com/Bre4dGC/sterfmt)** - powerful string formatting system library in C</p>
+* **[Dirty](https://github.com/Bre4dGC/dirty)** - A lightweight TUI file manager built with C</p>
+* **[Translations](https://github.com/Bre4dGC/translations)** - My Russian translation of short books and articles</p>
+* **[Libread](https://github.com/Bre4dGC/libread)** - Standard C library after a lobotomy</p>
+## For fun
+* **[TUI-Games](https://github.com/Bre4dGC/tui-games)** - A collection of simple terminal games in standard C</p>
+* **[Cinema](https://github.com/Bre4dGC/cinema")** - Absolute Cinema C Interpreter</p>
+* **[Arithmedes](https://github.com/Bre4dGC/arithmedes)** - A simple arithmetic interpreter written in C</p>
+* **[Gotodo](https://github.com/Bre4dGC/gotodo)** - Simple CLI task manager in Go</p>
 
 </div>
 
@@ -43,3 +43,7 @@
    </tr>
  </table>
 </div>
+
+### Quote of the day
+> "Just google it."
+> — *Unknown genius*
