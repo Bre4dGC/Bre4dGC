@@ -9,14 +9,14 @@
 Language Design, Compiler Construction, Systems Programming, Desktop Development and Opensource
 
 
-<img src="https://skillicons.dev/icons?i=c,cs,go,rust,fortran,linux" />
+<img src="https://skillicons.dev/icons?i=c,cs,go,rust,cpp,fortran,linux" />
 
 ## Most significant projects
 * **[Bread Crumbs](https://github.com/Bre4dGC/bread-crumbs)** - Modern Programming Language</p>
 * **[BreadGPT](https://github.com/Bre4dGC/bread-chat)** - A convenient intermediary between user and LLM</p>
 ## Interesting stuff
 * **[SterFMT](https://github.com/Bre4dGC/sterfmt)** - powerful string formatting system library in C</p>
-* **[Dirty](https://github.com/Bre4dGC/dirty)** - A lightweight TUI file manager built with C</p>
+* **[Dirty](https://github.com/Bre4dGC/dirty)** - A lightweight TUI file manager built with C++</p>
 * **[Translations](https://github.com/Bre4dGC/translations)** - My Russian translation of short books and articles</p>
 * **[Libread](https://github.com/Bre4dGC/libread)** - Standard C library after a lobotomy</p>
 ## For fun
