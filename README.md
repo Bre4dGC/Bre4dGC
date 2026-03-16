@@ -1,10 +1,9 @@
-<div>
- 
- <div align="center">
-  <h1>Brx4D</h1>
-  <p>Some ambitious and absurd dude who just doesn't know what he wants to do</p>
- </div>
- 
+<div align="center">
+ <img src="banner.png" alt="Banner"/>
+ <h1>Brx4D</h1>
+ <p>Some ambitious and absurd dude who just doesn't know what he wants to do</p>
+</div>
+
 ## Technical Stack
 Language Design, Compiler Construction, Systems Programming, Desktop Development and Opensource
 
@@ -13,8 +12,8 @@ Language Design, Compiler Construction, Systems Programming, Desktop Development
 ##
 <div align="center">
  <h3>Most significant projects</h3>
- <a href="https://github.com/Bre4dGC/bread-crumbs"><img src="https://svg.bookmark.style/api?url=https://github.com/Bre4dGC/bread-crumbs" /></a>
- <a href="https://github.com/Bre4dGC/bread-chat"><img src="https://svg.bookmark.style/api?url=https://github.com/Bre4dGC/bread-chat" /></a>
+ <a href="https://github.com/Bre4dGC/bread-crumbs"><img height="300px" src="https://svg.bookmark.style/api?url=https://github.com/Bre4dGC/bread-crumbs" /></a>
+ <a href="https://github.com/Bre4dGC/bread-chat"><img height="300px" src="https://svg.bookmark.style/api?url=https://github.com/Bre4dGC/bread-chat" /></a>
 </div>
 
 ##
@@ -35,7 +34,7 @@ Language Design, Compiler Construction, Systems Programming, Desktop Development
 ##
 
 <div align="center">
- <img width="70%" src="https://streak-stats.demolab.com/?user=bre4dgc&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"/>
+ <img src="https://streak-stats.demolab.com/?user=bre4dgc&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"/>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bre4dgc&theme=react-dark&hide_border=true&area=true" />
 </div>
 
