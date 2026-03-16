@@ -33,13 +33,16 @@ Language Design, Compiler Construction, Systems Programming, Desktop Development
  <div align="center">
   <h1>Statistics</h1>
  </div>
+ <div align="center">
+    <img height="auto" width="70%" src="https://streak-stats.demolab.com/?user=bre4dgc&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"/>
+ </div>
  <table>
    <tr>
      <td>
-      <img height="188px" align="Left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bre4dGC&theme=github_dark"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=bre4dgc&theme=react-dark&hide_border=true&area=true" />
      </td>
      <td>
-       <img height="188px" align="right" alt="webDev's Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bre4dGC&theme=github_dark&exclude={exclude}" />
+       <img alt="Github Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bre4dGC&theme=github_dark&exclude={exclude}" />
      </td>
    </tr>
  </table>
