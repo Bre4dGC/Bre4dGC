@@ -1,6 +1,6 @@
 <div align="center">
- <img src="banner.png" alt="Banner"/>
  <h1>Brx4D</h1>
+ <img src="banner.png" alt="Banner" width="100%" />
  <p>Some ambitious and absurd dude who just doesn't know what he wants to do</p>
 </div>
 
