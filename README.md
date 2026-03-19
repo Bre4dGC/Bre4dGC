@@ -7,7 +7,14 @@
 ## Technical Stack
 Language Design, Compiler Construction, Systems Programming, Desktop Development and Opensource
 
-<img src="https://skillicons.dev/icons?i=c,cs,go,rust,cpp"/>
+<div>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" height="28" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp1.svg" height="28" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" height="28" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go1.svg" height="28" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg" height="28" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Zig/zig1.svg" height="28" />
+</div>
 
 ##
 <div align="center">
